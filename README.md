@@ -1,17 +1,11 @@
-<h1 align="center"> ✨ Hello there! ✨</h1>
+<h1 align="center"> 😼 Hello there! 😼</h1>
 <br>
-
-<!--
-**Ranmaruru/Ranmaruru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Меня зовут Саша и я QA Automation Engineer.💀</p>
+<p align="left">Занимаюсь тестированием на языке Java, но могу использовать и другие, так как нету определенной привязки к инструменту.</p>
+<br>
+<h1 align="center"> Мой стек: </h1>
+<br>
+<p>
+  <img src="https://www.flaticon.com/free-icons/java">
+  <img src="https://icons8.com/icon/TLI9oiMzpREF/selenium">
+</p>
