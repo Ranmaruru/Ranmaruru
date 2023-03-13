@@ -1,10 +1,9 @@
 <h1 align="center"> 😼 Hello there! 😼</h1>
-<br>
 <p align="left">Меня зовут Саша и я QA Automation Engineer.💀</p>
 <p align="left">Занимаюсь тестированием на языке Java, но могу использовать и другие, так как нету определенной привязки к инструменту.</p>
+<p align="left">В свободное время читаю книги и решаю задачи на кодварсе</p>
 <br>
 <h1 align="center"> Языки: </h1>
-<br>
 <p align="center">
   <a href="https://www.oracle.com/cis/java/">
     <img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Oracle&logoColor=F80000">
@@ -17,7 +16,6 @@
   </a>
 </p>
 <h1 align="center"> Технологии: </h1>
-<br>
 <p align="center">
   <a href="https://www.selenium.dev/">
     <img src="https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=43B02A">
@@ -54,4 +52,7 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/-Visual Studio Code-090909?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC">
   </a>
+</p>
+<p align="center">
+  <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ranmaruru&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=&theme=graywhite" /></a>
 </p>
